@@ -1,7 +1,7 @@
 {
-      "name": "╚»𝗧-𝗚-𝗡«╝ Robot",
+      "name": "ᴀʟɪꜱʜᴀ ʀᴏʙᴏᴛ",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/19798419a95cd778001c9.jpg",
+      "logo": "https://telegra.ph/file/d6f6d3d745a58edf4b3b9.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "TGN"
       ],   
-   "repository": "https://github.com/Itsunknown-12/TGN-Robot.git",
+   "repository": "https://github.com/AbhumanyuXMusic/AlishaManagement",
    "addons": [
       {
          "options": {
@@ -67,12 +67,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Timesisnotwaiting"
+         "value": "Venom_Hai_Hum"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "GodfatherSupport"
+         "value": "AlishaSupport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -182,7 +182,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/GodfatherSupport"
+         "value": "https://t.me/Venom_Hai_Hum"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
