@@ -91,9 +91,9 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/The_Godfather_Network"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/Shayri_Music_Lovers"),
         InlineKeyboardButton(
-            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/AlishaSupport"
+            text=" ᴀʟɪꜱʜᴀ ᴄʜᴀᴛ", url=f"https://t.me/AlishaSupport"
         ),
     ],
     [
@@ -110,7 +110,7 @@ START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [ᴀʙʜɪᴍᴀɴʏᴜ ꜱɪɴɢʜ ʀᴀɴᴀᴡᴀᴛ](t.me/Venom_Hai_Hum) \
- Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/AlishaSupport) \
+ Supporting isnt always financial! [ᴀʟɪꜱʜᴀ ɴᴇᴛᴡᴏʀᴋ](https://t.me/AlishaSupport) \
  Those who cannot provide monetary support are welcome to help us develope the bot at ."""
 
 IMPORTED = {}
