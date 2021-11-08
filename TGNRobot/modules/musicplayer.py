@@ -1,4 +1,4 @@
-__mod_name__ = "TGN Player"
+__mod_name__ = "Alisha Player"
 
 __help__ = """
 =>> *Song Playing* 🎧 
